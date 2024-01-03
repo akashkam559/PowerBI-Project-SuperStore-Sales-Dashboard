@@ -97,6 +97,7 @@ The objective can be broken down into the following detailed components:
 
 
 # PROJECT STEPS & ETL ON DATASET
+
 1. Undertand req & take out important information
 
 2. Consider & Find (kpi/metrices) before making dashboard 
@@ -137,7 +138,7 @@ The objective can be broken down into the following detailed components:
 
 
 # PROJECT DESCRIPTION & INSIGHTS FROM DASHBOARD TO HELP BUSINESS
-------------------------------------------------------
+
 • Dashboard Creation: Created, Built, Monitored visually appealing interactive dynamic dashboards & reports added filters to allow user to explore dara at various levels of granularity
 
 • Dashboard KPI's : understand, identify, track KPIs, metrices, key-influencers, trends & patterns

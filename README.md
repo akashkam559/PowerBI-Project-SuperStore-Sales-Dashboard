@@ -186,13 +186,21 @@ The objective can be broken down into the following detailed components:
 
 
 • Found KPI's, metrices, key-influencers, trends & patterns
+
 	• For 2 years(2019 & 2020) Total orders = 22K, Total Sales = 1.6M, Total Profit = 175K, Min_of_Days_to_Ship_order = 4 Days
+ 
 	• Maximum Sales  done by COD(43%,) & Minimum Sales done by Cards(23%), This shows people prefer COD than Cards for shopping & booking orders
+ 
 	• Maximum Sales  happened in WestRegion(33%), Minimum Sales happened in(South), this shows west region are booking more order than south 
+ 
 	• MAximum sales  happened in Consumer Segment(48%) & Minimum sales happened in HomeOffice(19%), this shows Customers/consumers are booking moew order Than cooperate people
+ 
 	• Maximum sales  happened in Otober in 2019 due to festival season sale & discount rates on products
+ 
 	• Maximum sales  happened in December in 2020 due to festival season & discount rates on products
+ 
 	• Maximum Profit happened in Otober-November in 2019 & 2020 
+ 
 	• Maximum sales  done for Office Supplies(0.64M) & Minimum sales for furniture(0.45M), means poeople are ordering for office supplies more than others products
 
 

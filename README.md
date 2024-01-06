@@ -14,7 +14,9 @@ Demo Published/Deplyed Dashboard Link -> https://app.powerbi.com/groups/me/repor
 
 
 
-#PROJECT SUMMARY
+
+
+# PROJECT SUMMARY
 
 • Contributed to success of a business by providing valuable insights to support supermarket’s goals for growth, business success by leveraging historic data to generate sales for the next 15 days 
 
